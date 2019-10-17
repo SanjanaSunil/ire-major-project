@@ -1,9 +1,9 @@
 import re
 import wikipedia
 
-import nltk
-from nltk.tag import tnt
-from nltk.corpus import indian
+# import nltk
+# from nltk.tag import tnt
+# from nltk.corpus import indian
 
 class WikiParser:
     """
@@ -12,9 +12,9 @@ class WikiParser:
 
     def __init__(self):
         wikipedia.set_lang("hi")
-        train_data = indian.tagged_sents('hindi.pos')
-        self.tnt_pos_tagger = tnt.TnT()
-        self.tnt_pos_tagger.train(train_data)
+        # train_data = indian.tagged_sents('hindi.pos')
+        # self.tnt_pos_tagger = tnt.TnT()
+        # self.tnt_pos_tagger.train(train_data)
 
 
     def get_content(self, title):
@@ -36,17 +36,20 @@ class WikiParser:
             return ""
 
     
-    def pos_tag(self, sentence):
-        return self.tnt_pos_tagger.tag(nltk.word_tokenize(sentence))
+    # def pos_tag(self, sentence):
+    #     return self.tnt_pos_tagger.tag(nltk.word_tokenize(sentence))
 
 
     def extract_ners(self, doc):
         content = self.get_content(doc)
-        sentences = content.split('।')
-        for sentence in sentences:
-            if sentence:
-                tags = self.pos_tag(sentence)
-                print(tags)
+        f = open('hindi-part-of-speech-tagger/hindi.input.txt', 'w+')
+        f.write(content)
+        f.close()
+        # sentences = content.split('।')
+        # for sentence in sentences:
+        #     if sentence:
+        #         tags = self.pos_tag(sentence)
+        #         print(tags)
 
 
 
