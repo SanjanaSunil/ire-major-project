@@ -1,0 +1,67 @@
+दोस्तों, आजकल हर रोज एक नयी टेक्नोलॉजी दुनिया के सामने आती रहती है| कुछ तकनीक ऐसे भी होते है जो समाज के गतिविधियों को ध्यान में रखकर बनाये जाते है| आज हम ऐसे ही एक तकनीक के बारे में बात करेंगे जो यूजर्स के साथ-साथ डेवलपरो को भी ध्यान में रखकर बनाया गया है| हमारे आज के टॉपिक का नाम है Google Firebase, इस Article में मैं आपको बताऊंगा की Google Firebase क्या है? और ये हमे कौन-कौन सी सर्विसेज देता है? अगर आप Firebase के बारे में विस्तार से जानना चाहते हैं तो बने रहिए मेरे साथ इस Article में-
+
+Google Firebase क्या है?
+
+Google Firebase एक Google का प्रोडक्ट है जिसका इस्तेमाल Mobile और Web App Development के लिए होता है| Google Firebase हमें ऐसे ऐसे Tools और Services देता है जिसकी मदद से हम high quality के Apps बना सकते हैं और अपने Business को बढ़ा सकते हैं अच्छा खासा पैसा कमा सकते हैं| मान लीजिए आप ने एक App बनाया है और उसको Firebase के साथ connect किया हुआ है तो अब आपको आपके बनाए हुए App की पूरी जानकारी Firebase की मदद से मिलती रहेगी| अगर आपका App किसी के मोबाइल पर चल नहीं रहा है तो इसकी भी जानकारी आपके पास Firebase भेज देगा|
+
+Firebase की मदद से जितने भी users ने आपके App पर Sign Up किया होगा उनकी पूरी जानकारी आपके पास होगी| अगर आप अपने users को कोई भी notification देना चाहते हो तो आप आसानी से Firebase की मदद से दे सकते है| अगर आपने अपना App Update किया है और आप चाहते हो कि आपके सारे users Update App को Install करें तो आप यह Firebase की मदद से कर सकते हो| Firebase की मदद से आप users का Real-Time data को Syn भी कर सकते है| दोस्तों अब Firebase की थोड़ी सी history के बारे में जान लेते हैं-
+
+Firebase की History
+
+सन 2011 में एक नई कम्पनी आई जिसने सबसे पहले Firebase को बनाया था| उस समय Firebase का नाम Envelope रखा गया था| दरअसल Envelope Developers और API यानी Application Programming Interface के बीच Online Chat का Function Enable करता था जो कि सिर्फ Website पर उपलब्ध था| Envelope की Interesting बात यह थी कि लोग Envelope का use करके Application का data मैसेज की तरह भेजते थे लेकिन आहिस्ता-आहिस्ता Envelope में और तरह के Features भी add होने लगे|
+
+Envelope का इस्तेमाल Online Games में होने लगा जिससे यह पता चलता था कि इस समय कितने users online game खेल रहे हैं| उस समय Envelope के मालिक James Tamplin और Andrew Lee ने Online Chat और Real-Time Data को अलग अलग कर दिया| उसके बाद 2012 में Firebase को एक अलग ही कम्पनी घोषित कर दिया जिसका नाम BaaS रखा गया| Baas की Full Form Backend-as-a-Service होती थी जिसका काम सिर्फ Real-Time data देना होता था| लेकिन 2014 में Google ने BaaS को खरीद लिया जो कि आज Firebase के नाम से मशहूर है| Google ने इसमें और भी बहुत सारे extra Features add किए|
+
+और भी जाने-
+
+IoT क्या होता है? ये काम कैसे करता है? और जाने इसके लाभ
+
+Adsense की तरह PopAds से भी Earning कर सकते है| जाने दोनों में अंतर
+
+Firebase हमें कौन-कौन सी सर्विसेज देता है?
+
+Firebase हमें बहुत सारी service provide करता है जैसे कि
+
+#1 Firebase Hosting
+
+यहाँ पर आपको firebase का free web hosting मिलेगा जिसपर आप कोई भी html कि वेबसाइट होस्ट कर सकते है| आप एक से अधिक वेबसाइट को भी होस्ट कर सकते है|
+
+#2 Cloud Firestore
+
+इस सर्विस में Firebase यूजर्स का पूरा का पूरा data store करके रखता है| अब यह डाटा चाहे Personal data हो या फिर कोई और|
+
+#3 Cloud Functions
+
+इसमें Firebase App का code run करता है वह भी बिना किसी server की रुकावट के यानी जिस चीज पर आप Click करोगे वही चीज open होगी|
+
+#4 Authentication
+
+इस service में Firebase users के personal data को एक दम secure करके रखता है | अगर कोई भी Hacker hack करना चाहे तो उसे कभी भी hack नहीं कर सकता|
+
+#5 Real-Time user
+
+इस सर्विस में Firebase users की पूरी जानकारी देता है कि इस समय कितने users इस App को चला रहे हैं और कौन-कौन सी चीज इस समय App पर open की हुई है|
+
+#6 Increase Speed
+
+इसके द्वारा Firebase App की Speed बढ़ाने में बहुत मदद करता है और बढ़िया सी Hosting भी provide करता है|
+
+#7 Crashlytics
+
+अगर App मैं किसी भी तरह का कोई issue आए तो वह तुरंत owner को बता देता है कि अभी यह issue आया है और उसको जल्दी से जल्दी remove करने की कोशिश करता है|
+
+#8 Cloud Messaging
+
+अगर आप किसी भी तरह का message या फिर notification users को दिखाना चाहते हैं तो आप Firebase की मदद से आसानी से दिखा सकते हो|
+
+#9 Remote Configuration
+
+अगर आप अपने App मैं कुछ नई चीजें डालना चाहते हो तो आप Firebase की मदद से आसानी से डाल सकते हो| इससे आपके Real-Time users को भी कोई परेशानी नहीं होगी|
+
+#10 Drive Traffic
+
+इस service में Firebase आपको बताता है कि आपके App पर कहां-कहां से Traffic आ रहा है यानी के किस-किस देश में आपके App का इस्तेमाल हो रहा है|
+
+Final Words
+
+तो दोस्तों आज के इस आर्टिकल में मैंने आपको बताया कि Google Firebase क्या है? और Firebase हमें कौन-कौन सी Service Provide करता है? मैं आशा करता हूं कि आपको “Google Firebase क्या है? ये कौन-कौन सी सर्विसेज देता है?” की जानकारी बहुत ही अच्छी लगी होंगी| अगर आप चाहते है कि ये जानकारी आपके द्वारा औरो तक पहुचे तो जल्दी इसे अपने सोशल मीडिया पर दोस्तों को टैग करके शेयर कर दे|
