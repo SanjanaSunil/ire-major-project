@@ -71,4 +71,4 @@ class WikiParser:
 
 if __name__ ==  "__main__":
     wiki_extract = WikiParser()
-    wiki_extract.extract_ners("उत्तर प्रदेश")
+    wiki_extract.extract_ners(wikipedia.random())
