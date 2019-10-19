@@ -51,7 +51,7 @@ class WikiParser:
                 prev_ner = False
             else:
                 tags = line.split()
-                if len(tags) >= 2 and 'NNP' in tags:
+                if len(tags) >= 2 and 'NNP' in tags and tags[0] != '==':
                     if prev_ner:
                         ners_sentence[-1] = ners_sentence[-1] + ' ' + tags[0]
                     else:
