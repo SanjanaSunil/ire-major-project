@@ -1,0 +1,14 @@
+राघोपुर-	राघोपुर-	NN		unk				
+२	२	QC		num				
+नाथनगर	नाथनगर	NNP		unk				
+,	,	SYM		punc				
+भागलपुर	भागलपुर	NNP		unk				
+,	,	SYM		punc				
+बिहार	बिहार	NNP	0	n	m	sg	3	d
+स्थित	स्थित	JJ	0	n	m	sg	3	d
+एक	एक	QC		adj	any	any		any
+गांव	गाँव	NN	0	n	m	sg		d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
