@@ -1,0 +1,47 @@
+देलफिनि	देलफिनि	NN		unk				
+अन्	अन्	PSP		unk				
+‍	‍	NN		unk				
+थाह	थाह	VM	0	n	f	sg	3	d
+मोदाइ	मोदाइ	XC		unk				
+आरो	आरो	XC		unk				
+गुबुन	गुबुन	NNP		unk				
+गुबुन	गुबुन	NN		unk				
+खन्	खन्	NN		unk				
+‍	‍	JJ		unk				
+थाह	थाह	NN	0	n	f	sg	3	d
+बोडो	बोडो	VM		unk				
+भाषा	भाषा	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+विख्यात	विख्यात	JJ		adj	any	any		any
+साहित्यकार	साहित्यकार	NN	0	n	m	sg	3	d
+अनिल	अनिल	XC	0	n	m	sg	3	d
+बर	बर	NNP	0	n	m	sg	3	d
+'	'	SYM		punc				
+द्वारा	द्वारा	PSP		psp				
+रचित	रचित	JJ		adj	any	any		any
+एक	एक	QC		adj	any	any		any
+कविता-संग्रह	कविता-संग्रह	NN		unk				
+है	है	VM	है	v	any	sg	2	
+जिसके	जो	PRP	का	pn	m	pl	3	d
+लिये	ले	PSP	या	v	m	pl	any	
+उन्हें	उन्हें	PRP		unk				
+सन्	सन्	XC	0	n	m	sg	3	d
+2013	2013	QC		num				
+में	में	PSP		psp				
+बोडो	बोडो	XC		unk				
+भाषा	भाषा	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+साहित्य	साहित्य	NN	0	n	m	sg	3	d
+अकादमी	अकादमी	JJ	0	n	f	sg	3	d
+पुरस्कार	पुरस्कार	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+सम्मानित	सम्मानित	JJ	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+==	==	XC		unk				
+सन्दर्भ	संदर्भ	XC	0	n	m	sg		d
+==	==	NNP		unk				
