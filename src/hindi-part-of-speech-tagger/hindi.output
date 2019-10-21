@@ -1,14 +1,51 @@
-राघोपुर-	राघोपुर-	NN		unk				
-२	२	QC		num				
-नाथनगर	नाथनगर	NNP		unk				
-,	,	SYM		punc				
-भागलपुर	भागलपुर	NNP		unk				
-,	,	SYM		punc				
-बिहार	बिहार	NNP	0	n	m	sg	3	d
-स्थित	स्थित	JJ	0	n	m	sg	3	d
+महाराणा	महाराणा	XC	0	n	m	sg	3	d
+महेंद्र	महेंद्र	XC		unk				
+सिंह	सिंह	NNP	0	n	m	sg	3	d
+मेवाड़	मेवाड़	XC		punc				
+(	(	SYM		punc				
+जन्म	जन्म	NN	0	n	m	sg	3	d
+२४	२४	QC		num				
+फरवरी	फरवरी	NNP	0	n	f	sg	3	d
+१९४१	१९४१	QC		num				
+)	)	SYM		punc				
 एक	एक	QC		adj	any	any		any
-गांव	गाँव	NN	0	n	m	sg		d
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+राजनीतिज्ञ	राजनीतिज्ञ	NN	0	n	m	sg	3	d
 है	है	VM	है	v	any	sg	2	
+जो	जो	PRP		avy				
+मेवाड़	मेवाड़	XC		punc				
+से	से	PSP	0	v	any	any	any	
+संबधित	संबधित	JJ		unk				
+है	है	VM	है	v	any	sg	2	
+इस	इस	DEM		pn	any	sg	3	o
+कारण	कारण	NN	0	n	m	sg	3	d
+इनको	इनको	PRP		pn	any	pl	3	o
+महाराणा	महाराणा	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+माना	मान	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
 .	.	SYM		punc				
 </s>
 <s>
+इन्होंने	इन्होंने	XC		punc				
+चित्तौड़गढ़	चित्तौड़गढ़	NNP		punc				
+से	से	PSP	0	v	any	any	any	
+लोकसभा	लोकसभा	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+चुनाव	चुनाव	NN	0	n	m	sg	3	d
+लड़ा	लड़ा	VM		adj	any	any		any
+था	था	VAUX	था	v	m	sg	any	
+जिसमें	जो	PRP	में	pn	any	sg	3	o
+१९००००	१९००००	QC		num				
+वोटों	वोट	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+जीत	जीत	NN	0	n	f	sg	3	d
+मिली	मिल	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+[	[	SYM		punc				
+1	1	QC		num				
+]	]	SYM		punc				
