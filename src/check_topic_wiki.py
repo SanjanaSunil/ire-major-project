@@ -37,12 +37,20 @@ def get_words(sentences):
         for word in sentence:
             if not check_phrase(word):
                 word_list.append(word)
+    return word_list
+
+def save(output, dir):
+    with open(dir, 'w') as f:
+        for s in output:
+            f.write(str(s) + '\n')
 
 def main(data_path, out_path):
     sentences = get_sentences(data_path)
     non_wiki_words = get_words(sentences)
     # non_wiki_bigrams = get_bigrams(sentences)
     print(non_wiki_words)
+    save(non_wiki_words, out_path)
+    # print(non_wiki_words)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
