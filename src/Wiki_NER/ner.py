@@ -1,5 +1,7 @@
 import re
 import os
+import time
+import pickle
 import wikipedia
 
 class WikiParser:
@@ -74,7 +76,11 @@ class WikiParser:
 if __name__ ==  "__main__":
     wiki_extract = WikiParser()
 
-    for i in range(10):
+    for i in range(1000):
         wiki_extract.extract_ners(wikipedia.random())
+        if i % 10 == 0:
+            time.sleep(100)
     
-    print(wiki_extract.ners)
+    f = open('ner_list.txt','wb')
+    pickle.dump(wiki_extract.ners, f)
+    f.close()
