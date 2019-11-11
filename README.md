@@ -1,6 +1,6 @@
 # Identifying topics/pages to be included in Hindi Wikipedia
 
-<summary><h2>Table of Contents</h2></summary><p>
+<details><summary>Table of Contents</summary><p>
 
 - [1. Project](#project)
     - [1.1. Problem Statement](#problem-statement)
@@ -11,7 +11,7 @@
     - [2.3 Topic Identification](#topic-identification)
 - [3. Results](#results)
 
-</p><p></p>
+</p></details><p></p>
 
 ## Project
 
@@ -77,4 +77,4 @@ The -p argument is true if the input file contains pickled list of lists, else f
 
 ## Results
 
-All the possible new topics for Hindi Wikipedia are stored in the results/ folder. nonwiki.txt contains results of scraping news and Wikipedia articles and nonwiki_1.txt contains results of scraping domain articles.
+All the possible new topics for Hindi Wikipedia are stored in the results/ folder. nonwiki.txt contains results of scraping news and Wikipedia articles and nonwiki_1.txt contains results of scraping domain articles. There are several stopwords in the results that can be filtered out using hindi_stopwords.txt.
