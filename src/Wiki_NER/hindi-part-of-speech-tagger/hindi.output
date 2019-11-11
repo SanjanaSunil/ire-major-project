@@ -1,47 +1,907 @@
-देलफिनि	देलफिनि	NN		unk				
-अन्	अन्	PSP		unk				
-‍	‍	NN		unk				
-थाह	थाह	VM	0	n	f	sg	3	d
-मोदाइ	मोदाइ	XC		unk				
-आरो	आरो	XC		unk				
-गुबुन	गुबुन	NNP		unk				
-गुबुन	गुबुन	NN		unk				
-खन्	खन्	NN		unk				
-‍	‍	JJ		unk				
-थाह	थाह	NN	0	n	f	sg	3	d
-बोडो	बोडो	VM		unk				
-भाषा	भाषा	NN	0	n	f	sg	3	d
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+किसका	किसका	WQ		unk				
+सपना	सपना	NN	0	n	m	sg	3	d
+नही	नही	NEG		unk				
+होगा	हो	VM	गा	v	m	sg	2	
+?	?	SYM		punc				
+आज	आज	NN		adv				
 के	का	PSP	का	psp	m	sg		o
-विख्यात	विख्यात	JJ		adj	any	any		any
-साहित्यकार	साहित्यकार	NN	0	n	m	sg	3	d
-अनिल	अनिल	XC	0	n	m	sg	3	d
-बर	बर	NNP	0	n	m	sg	3	d
-'	'	SYM		punc				
-द्वारा	द्वारा	PSP		psp				
-रचित	रचित	JJ		adj	any	any		any
-एक	एक	QC		adj	any	any		any
-कविता-संग्रह	कविता-संग्रह	NN		unk				
-है	है	VM	है	v	any	sg	2	
-जिसके	जो	PRP	का	pn	m	pl	3	d
-लिये	ले	PSP	या	v	m	pl	any	
-उन्हें	उन्हें	PRP		unk				
-सन्	सन्	XC	0	n	m	sg	3	d
-2013	2013	QC		num				
-में	में	PSP		psp				
-बोडो	बोडो	XC		unk				
-भाषा	भाषा	NN	0	n	f	sg	3	d
+युवा	युवा	JJ		adj	m	sg		d
+इसके	इसके	PRP		pn	m	pl	3	d
+लिए	ले	PSP	या	v	m	pl	any	
+बहुत	बहुत	INTF		adj	any	any		any
+मेहनत	मेहनत	JJ	0	n	f	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+इसे	इसे	PRP		pn	any	sg	3	o
+पाने	पा	VM	ना	v	m	pl	any	
 के	का	PSP	का	psp	m	sg		o
 लिए	ले	PSP	या	v	m	pl	any	
-साहित्य	साहित्य	NN	0	n	m	sg	3	d
-अकादमी	अकादमी	JJ	0	n	f	sg	3	d
-पुरस्कार	पुरस्कार	NN	0	n	m	sg	3	d
+वे	वह	PRP	0	pn	any	pl	3	d
+दिनरात	दिनरात	NN		unk				
+पढते	पढ	VM	ता	v	m	pl	any	
+ही	ही	RP		adv				
+रहते	रह	VM	ता	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+अधिकतर	अधिकतर	JJ		adj	any	any		any
+लोग	लोग	NN	0	n	m	sg	3	d
+यही	यही	PRP		avy				
+सोचते	सोच	VM	ता	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+यदि	यदि	CC		avy				
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+लग	लग	VM	0	v	any	any	any	
+गयी	गयी	VAUX		unk				
+तो	तो	CC		avy				
+लाइफ	लाइफ	XC	0	n	f	sg	3	d
+सेट	सेट	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+जाएगी	जा	VAUX	गा	v	f	sg	2	
+|	|	SYM		punc				
+हर	हर	QF		adj	any	any		any
+पिता	पिता	NN	0	n	m	sg	3	d
+कि	कि	CC		avy				
+भी	भी	RP		adv				
+यही	यही	PRP		avy				
+ख्वाहीश	ख्वाहीश	JJ		unk				
+होती	हो	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+उसका	उसका	PRP	0	v	any	any	any	
+बेटा	बेटा	NN	0	n	m	sg	3	d
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+पाकर	पा	VM	कर	v	any	any	any	
+अपने	अपना	PRP	0	n	m	pl	3	d
+जीवन	जीवन	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+अच्छे	अच्छे	JJ		adj	any	any		any
 से	से	PSP	0	v	any	any	any	
-सम्मानित	सम्मानित	JJ	0	n	m	sg	3	d
+बिताये	बिता	VM	एं	v	any	sg	2	
+|	|	SYM		punc				
+भारत	भारत	NNP	0	n	m	sg	3	d
+में	में	PSP		psp				
+ज्यादातर	ज्यादातर	JJ		unk				
+लोग	लोग	NN	0	n	m	sg	3	d
+इन्टरनेट	इन्टरनेट	NN		unk				
+पर	पर	PSP		psp				
+Government	Government	JJ		unk				
+Jobs	Jobs	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बारे	बारे	PSP	0	n	m	sg	3	d
+में	में	PSP		psp				
+सर्च	सर्च	NN		unk				
+करते	कर	VM	ता	v	m	pl	any	
+रहते	रह	VAUX	ता	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+इसलिए	इसलिये	CC		avy				
+हमने	हमने	PRP		unk				
+इसको	इसको	PRP		pn	any	sg	3	o
+थोडा	थोडा	QF		adj	m	sg		d
+आसान	आसान	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+Sarkari	Sarkari	XC		unk				
+Naukri	Naukri	XC		unk				
+लेटेस्ट	लेटेस्ट	XC		unk				
+अपडेट	अपडेट	NN		unk				
+से	से	PSP	0	v	any	any	any	
+सम्बंधित	सम्बंधित	JJ		unk				
+कुछ	कुछ	QF		adj	any	any		d
+वेबसाइट	वेबसाइट	NN		unk				
+लिस्ट	लिस्ट	NN	0	n	f	sg	3	d
 किया	कर	VM	या	v	m	sg	any	
-गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+आपको	आप	PRP	को	pn	any	any	any	o
+वहां	वहाँ	PRP		adv				
+से	से	PSP	0	v	any	any	any	
+जॉब	जॉब	NN		unk				
+खोजने	खोज	VM	ना	v	m	pl	any	
+में	में	PSP		psp				
+बहुत	बहुत	QF		adj	any	any		any
+आसानी	आसानी	NN	0	n	f	sg	3	d
+होगी	हो	VM	गा	v	f	sg	2	
+|	|	SYM		punc				
+Sarkari	Sarkari	JJ		unk				
+Naukri	Naukri	NN		unk				
+क्यूं	क्यूं	VM		unk				
+जरुरी	जरुरी	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+?	?	SYM		punc				
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सभी	सभी	QF	0	n	m	sg	3	d
+पोस्ट	पोस्ट	XC	0	n	m	sg	3	d
+भारत	भारत	NNP	0	n	m	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+द्वारा	द्वारा	PSP		psp				
+लागु	लागु	NN		unk				
+होते	हो	VM	ता	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+सरकार	सरकार	NN	0	n	f	sg	3	d
+ही	ही	RP		adv				
+तय	तय	JJ	0	n	m	sg	3	d
+करती	कर	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+किसे	किसे	PRP		unk				
+,	,	SYM		punc				
+कितने	कितना	WQ		adj	m	sg		o
+और	और	CC		adv				
+कैसे	कैसे	WQ		adv				
+लोगो	लोगो	NN		unk				
+को	को	PSP		psp				
+जॉब	जॉब	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+भर्ती	भर्ती	NN	0	n	f	sg	3	d
+करना	कर	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+?	?	SYM		punc				
+और	और	CC		adv				
+कितना	कितना	QF		adj	m	sg		d
+मानदेय	मानदेय	NN	0	n	m	sg	3	d
+देना	दे	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+ये	यह	PRP	0	pn	any	pl	3	d
+भी	भी	RP		adv				
+तय	तय	JJ	0	n	m	sg	3	d
+करती	कर	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+Sarkari	Sarkari	JJ		unk				
+Naukri	Naukri	NN		unk				
+पाना	पा	VM	ना	v	m	sg	any	
+इतना	इतना	QF		adj	m	sg		d
+आसान	आसान	JJ	0	n	m	sg	3	d
+नही	नही	NEG		unk				
+होता	हो	VM	ता	v	m	sg	any	
+इसके	इसके	PRP		pn	m	pl	3	d
+लिए	ले	PSP	या	v	m	pl	any	
+आपको	आप	PRP	को	pn	any	any	any	o
+कई	कई	QF		adj	any	any		d
+एग्जाम	एग्जाम	NN		unk				
+और	और	CC		adv				
+इंटरव्यू	इंटरव्यू	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+गुजरना	गुजर	VM	ना	v	m	sg	any	
+पडता	पड	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+तब	तब	PRP		adv				
+जाकर	जा	VM	कर	v	any	any	any	
+आपको	आप	PRP	को	pn	any	any	any	o
+जॉब	जॉब	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+चुना	चुन	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+काफी	काफी	QF	0	n	f	sg	3	d
+सेफ	सेफ	NN	0	n	m	sg	3	d
+माना	मान	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+क्यूंकि	क्यूंकि	CC		unk				
+ये	यह	DEM	0	pn	any	pl	3	d
+लॉन्ग	लॉन्ग	JJ		unk				
+टर्म	टर्म	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+एक	एक	QC		adj	any	any		any
+बार	बार	RP		adv				
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+लग	लग	VM	0	v	any	any	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+तो	तो	CC		avy				
+वो	वो	PRP		unk				
+जिंदगी	जिंदगी	NN	0	n	f	sg	3	d
+भर	भर	RP	0	v	any	any	any	
+साथ	साथ	NST		adv				
+देती	दे	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+इसलिए	इसलिये	CC		avy				
+Sarkari	Sarkari	JJ		unk				
+Naukri	Naukri	NN		unk				
+को	को	PSP		psp				
+जरुरी	जरुरी	JJ		unk				
+माना	मान	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+लेटेस्ट	लेटेस्ट	JJ		unk				
+अपडेट	अपडेट	NN		unk				
+आज	आज	NN		adv				
+के	का	PSP	का	psp	m	sg		o
+लेख	लेख	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+मैंने	मैं	PRP	ने	pn	any	sg	1	o
+उन	उन	DEM		unk				
+लोगो	लोगो	NN		unk				
+कि	कि	CC		avy				
+हेल्प	हेल्प	NN		unk				
+करने	कर	VM	ना	v	m	pl	any	
+कि	कि	CC		avy				
+कोसिस	कोसिस	NN		unk				
+कि	कि	CC		avy				
+है	है	VM	है	v	any	sg	2	
+जो	जो	PRP		avy				
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+गूगल	गूगल	NN		unk				
+पर	पर	PSP		psp				
+सर्च	सर्च	NN		unk				
+तो	तो	RP		avy				
+करते	कर	VM	ता	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+लेकिन	लेकिन	CC		avy				
+उन्हें	उन्हें	PRP		unk				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+ठीक	ठीक	JJ		adj	any	any		any
+वेबसाइट	वेबसाइट	NN		unk				
+नही	नही	NEG		unk				
+मिलती	मिल	VM	ता	v	f	sg	any	
+|	|	SYM		punc				
+यहां	यहाँ	PRP		adv				
+आपको	आप	PRP	को	pn	any	any	any	o
+5	5	QC		num				
+ऐसे	ऐसे	DEM		adv				
+वेबसाइट	वेबसाइट	NN		unk				
+मिलेंगे	मिल	VM	गा	v	m	pl	1	
+जहां	जहाँ	PRP		adv				
+आपको	आप	PRP	को	pn	any	any	any	o
+Sarkari	Sarkari	NN		unk				
+Naukri	Naukri	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+Latest	Latest	JJ		unk				
+Update	Update	NN		unk				
+मिलेंगे	मिल	VM	गा	v	m	pl	1	
+|	|	SYM		punc				
+तकरीबन	तकरीबन	NN		unk				
+10	10	QC		num				
+सालों	साला	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+ये	यह	DEM	0	pn	any	pl	3	d
+वेबसाइट	वेबसाइट	NN		unk				
+हमारे	हमारे	PRP		unk				
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+भाइयो	भाइयो	NN		unk				
+को	को	PSP		psp				
+Sarkari	Sarkari	JJ		unk				
+Naukri	Naukri	NN		unk				
+से	से	PSP	0	v	any	any	any	
+सम्बंधित	सम्बंधित	JJ		unk				
+सभी	सभी	QF	0	n	m	sg	3	d
+लेटेस्ट	लेटेस्ट	JJ		unk				
+अपडेट	अपडेट	NN		unk				
+दे	दे	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+गवर्नमेंट	गवर्नमेंट	JJ	0	n	f	sg	3	d
+जॉब	जॉब	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+जो	जो	PRP		avy				
+भी	भी	RP		adv				
+पोस्ट	पोस्ट	NN	0	n	m	sg	3	d
+आते	आ	VM	ता	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+ये	यह	DEM	0	pn	any	pl	3	d
+वेबसाइट	वेबसाइट	NN		unk				
+उन	उन	DEM		unk				
+जॉब्स	जॉब्स	NN		unk				
+को	को	PSP		psp				
+अपने	अपना	PRP	0	n	m	pl	3	d
+वेबसाइट	वेबसाइट	NN		unk				
+पर	पर	PSP		psp				
+पुरे	पुरा	JJ	0	n	m	pl	3	d
+विवरण	विवरण	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+लिस्ट	लिस्ट	NN	0	n	f	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+रहते	रह	VAUX	ता	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+उस	उस	DEM		unk				
+जॉब	जॉब	NN		unk				
+को	को	PSP		psp				
+कहां	कहाँ	WQ		adv				
+से	से	PSP	0	v	any	any	any	
+और	और	CC		adv				
+कैसे	कैसे	WQ		adv				
+अप्लाई	अप्लाई	NN		unk				
+करना	कर	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+ये	यह	PRP	0	pn	any	pl	3	d
+भी	भी	RP		adv				
+बताते	बता	VM	ता	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+साथ	साथ	NST		adv				
+ही	ही	RP		adv				
+यदि	यदि	CC		avy				
+उस	उस	DEM		unk				
+जॉब	जॉब	NN		unk				
+में	में	PSP		psp				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+एग्जाम	एग्जाम	NN		unk				
+हुआ	हो	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+तो	तो	CC		avy				
+उसका	उसका	PRP	0	v	any	any	any	
+परिणाम	परिणाम	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+हमें	हमें	PRP		unk				
+बताते	बता	VM	ता	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+लेटेस्ट	लेटेस्ट	JJ		unk				
+अपडेट	अपडेट	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+आप	आप	PRP	0	pn	any	any	any	o
+चाहे	चाहे	CC:?		adv				
+तो	तो	RP		avy				
+इनका	इनका	PRP		pn	m	sg	3	d
+ईमेल	ईमेल	NN		unk				
+सब्सक्राइब	सब्सक्राइब	JJ		unk				
+कर	कर	VM	0	v	any	any	any	
+सकते	सक	VAUX	ता	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+जिससे	जो	PRP	से	pn	any	sg	3	o
+आपको	आप	PRP	को	pn	any	any	any	o
+इसके	इसके	PRP		pn	m	pl	3	d
+अपडेट	अपडेट	NN		unk				
+ईमेल	ईमेल	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+द्वारा	द्वारा	PSP		psp				
+सबसे	सबसे	INTF		adj	any	any		any
+पहले	पहले	NST		adv				
+मील	मील	NN	0	n	m	sg	3	d
+जायेगा	जा	VM	गा	v	m	sg	2	
+|	|	SYM		punc				
+करीब	करीब	RB		adj	any	any		any
+10	10	QC		num				
+सालों	साला	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+ये	यह	DEM	0	pn	any	pl	3	d
+वेबसाइट	वेबसाइट	NN		unk				
+भी	भी	RP		adv				
+हमें	हमें	PRP		unk				
+कई	कई	QF		adj	any	any		d
+प्रकार	प्रकार	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+जॉब	जॉब	NN		unk				
+से	से	PSP	0	v	any	any	any	
+रूबरू	रूबरू	NN		unk				
+करा	करा	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+FreshersLive	FreshersLive	NN		unk				
 .	.	SYM		punc				
 </s>
 <s>
-==	==	XC		unk				
-सन्दर्भ	संदर्भ	XC	0	n	m	sg		d
-==	==	NNP		unk				
+com	com	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+खास	खास	JJ		adj	any	any		any
+बात	बात	NN	0	n	f	sg	3	d
+ये	यह	PRP	0	pn	any	pl	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+देश	देश	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+कोने-कोने	कोने-कोने	NN		unk				
+से	से	PSP	0	v	any	any	any	
+सभी	सभी	QF	0	n	m	sg	3	d
+संस्थानो	संस्थानो	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+जॉब	जॉब	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+अपडेट	अपडेट	NN		unk				
+अपने	अपना	PRP	0	n	m	pl	3	d
+वेबसाइट	वेबसाइट	NN		unk				
+पर	पर	PSP		psp				
+देता	दे	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+यहां	यहाँ	PRP		adv				
+आपको	आप	PRP	को	pn	any	any	any	o
+सिर्फ	सिर्फ	RB		adj	any	any		any
+गवर्मेंट	गवर्मेंट	JJ		unk				
+जॉब	जॉब	NN		unk				
+ही	ही	RP		adv				
+नही	नही	NEG		unk				
+बल्कि	बल्कि	CC		avy				
+लिमिटेड	लिमिटेड	JJ		unk				
+कंपनीयों	कंपनीयों	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+जॉब्स	जॉब्स	NN		unk				
+,	,	SYM		punc				
+संविदा	संविदा	NN	0	n	f	sg	3	d
+वाले	वाला	PSP	0	n	m	pl	3	d
+जॉब्स	जॉब्स	NN		unk				
+इत्यादि	इत्यादि	RP		unk				
+जैसे	जैसे	RP		adv				
+जॉब	जॉब	NN		unk				
+भी	भी	RP		adv				
+आपको	आप	PRP	को	pn	any	any	any	o
+मील	मील	NN	0	n	m	sg	3	d
+जायेंगे	जा	VM	गा	v	m	pl	1	
+|	|	SYM		punc				
+सहूलियत	सहूलियत	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+यहां	यहाँ	PRP		adv				
+आपको	आप	PRP	को	pn	any	any	any	o
+विभिन्न	विभिन्न	JJ	0	n	m	sg	3	d
+प्रकार	प्रकार	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+केटेगरी	केटेगरी	NN		unk				
+मिलेंगे	मिल	VM	गा	v	m	pl	1	
+जहां	जहाँ	PRP		adv				
+से	से	PSP	0	v	any	any	any	
+आप	आप	PRP	0	pn	any	any	any	o
+अपने	अपना	PRP	0	n	m	pl	3	d
+योग्यता	योग्यता	NN	0	n	f	sg	3	d
+अनुसार	अनुसार	PSP		psp				
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+ढूंढ	ढूंढ	VM		unk				
+सकते	सक	VAUX	ता	v	m	pl	any	
+सकते	सक	VAUX	ता	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+EmployNewspaper	EmployNewspaper	NN		unk				
+एक	एक	QC		adj	any	any		any
+बेहतरीन	बेहतरीन	JJ	0	n	m	sg	3	d
+जॉब	जॉब	XC		unk				
+पोर्टल	पोर्टल	NNP		unk				
+ब्लॉग	ब्लॉग	NN		unk				
+है	है	VM	है	v	any	sg	2	
+जहां	जहाँ	PRP		adv				
+पर	पर	PSP		psp				
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सभी	सभी	QF	0	n	m	sg	3	d
+अपडेट	अपडेट	NN		unk				
+मील	मील	VM	0	n	m	sg	3	d
+जायेंगे	जा	VAUX	गा	v	m	pl	1	
+|	|	SYM		punc				
+इस	इस	DEM		pn	any	sg	3	o
+वेबसाइट	वेबसाइट	NN		unk				
+कि	कि	CC		avy				
+खास	खास	JJ		adj	any	any		any
+बात	बात	NN	0	n	f	sg	3	d
+ये	यह	PRP	0	pn	any	pl	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+इसपर	इसपर	PRP		pn	any	sg	3	o
+कई	कई	QF		adj	any	any		d
+टीम	टीम	NN	0	n	f	sg	3	d
+लगातार	लगातार	RB		adv				
+काम	काम	NN	0	n	m	sg	3	d
+करती	कर	VM	ता	v	f	sg	any	
+रहती	रह	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+इसपर	इसपर	PRP		pn	any	sg	3	o
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+सम्बंधित	सम्बंधित	JJ		unk				
+सभी	सभी	QF	0	n	m	sg	3	d
+अपडेट	अपडेट	NN		unk				
+को	को	PSP		psp				
+काफी	काफी	QF	0	n	f	sg	3	d
+डिटेल्स	डिटेल्स	NN		unk				
+में	में	PSP		psp				
+बताते	बता	VM	ता	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+अगर	अगर	CC		adv				
+आप	आप	PRP	0	pn	any	any	any	o
+इनका	इनका	PRP		pn	m	sg	3	d
+फेसबुक	फेसबुक	NN		unk				
+पेज	पेज	NN		unk				
+लाइक	लाइक	JJ		unk				
+किये	कर	VM	या	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+तो	तो	CC		avy				
+वहां	वहाँ	PRP		adv				
+से	से	PSP	0	v	any	any	any	
+भी	भी	RP		adv				
+अपडेट	अपडेट	NN		unk				
+आपको	आप	PRP	को	pn	any	any	any	o
+मील	मील	NN	0	n	m	sg	3	d
+जायेंगे	जा	VM	गा	v	m	pl	1	
+|	|	SYM		punc				
+इनके	इनके	PRP		pn	m	pl	3	d
+फेसबुक	फेसबुक	NN		unk				
+पेज	पेज	NN		unk				
+से	से	PSP	0	v	any	any	any	
+भी	भी	RP		adv				
+काफी	काफी	QF	0	n	f	sg	3	d
+लोग	लोग	NN	0	n	m	sg	3	d
+जुडे	जुड	VM	एं	v	any	sg	2	
+हुए	हो	VAUX	या	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+Sarkari	Sarkari	JJ		unk				
+Result	Result	NN		unk				
+भी	भी	RP		adv				
+एक	एक	QC		adj	any	any		any
+बेहतरीन	बेहतरीन	JJ	0	n	m	sg	3	d
+जॉब	जॉब	XC		unk				
+पोर्टल	पोर्टल	NNP		unk				
+वेबसाइट	वेबसाइट	NN		unk				
+है	है	VM	है	v	any	sg	2	
+|	|	SYM		punc				
+ये	यह	DEM	0	pn	any	pl	3	d
+वेबसाइट	वेबसाइट	NN		unk				
+इतना	इतना	QF		adj	m	sg		d
+सरल	सरल	JJ	0	n	m	sg	3	d
+तरीके	तरीका	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+डिजाईन	डिजाईन	NN		unk				
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+इसे	इसे	PRP		pn	any	sg	3	o
+कोई	कोई	PRP	0	pn	any	sg	3	d
+भी	भी	RP		adv				
+नॉन-टेक्निकल	नॉन-टेक्निकल	JJ		unk				
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+आसानी	आसानी	RB	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+समझ	समझ	VM	0	v	any	any	any	
+जायेगा	जा	VAUX	गा	v	m	sg	2	
+|	|	SYM		punc				
+इस	इस	DEM		pn	any	sg	3	o
+वेबसाइट	वेबसाइट	NN		unk				
+को	को	PSP		psp				
+केवल	केवल	RP		adv				
+लैपटॉप	लैपटॉप	NN		unk				
+या	या	CC		avy				
+PC	PC	NN		unk				
+वाले	वाला	PSP	0	n	m	pl	3	d
+स्क्रीन	स्क्रीन	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+डिजाईन	डिजाईन	NN		unk				
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+मोबाइल	मोबाइल	NN		unk				
+पर	पर	PSP		psp				
+ये	यह	DEM	0	pn	any	pl	3	d
+काफी	काफी	QF	0	n	f	sg	3	d
+छोटे	छोटा	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+नजर	नजर	NN	0	n	f	sg	3	d
+आएगा	आ	VM	गा	v	m	sg	2	
+|	|	SYM		punc				
+जॉब	जॉब	XC		unk				
+अपडेट	अपडेट	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+मामले	मामला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+ये	यह	PRP	0	pn	any	pl	3	d
+किसी	किसी	PRP		unk				
+से	से	PSP	0	v	any	any	any	
+पीछे	पीछा	NST	0	n	m	pl	3	d
+नही	नही	NEG		unk				
+है	है	VM	है	v	any	sg	2	
+इसपर	इसपर	CC		pn	any	sg	3	o
+आपको	आप	PRP	को	pn	any	any	any	o
+नए-नए	नए-नए	JJ		unk				
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अपडेट	अपडेट	NN		unk				
+मील	मील	VM	0	n	m	sg	3	d
+जायेंगे	जा	VAUX	गा	v	m	pl	1	
+|	|	SYM		punc				
+ये	यह	DEM	0	pn	any	pl	3	d
+वेबसाइट	वेबसाइट	NN		unk				
+भी	भी	RP		adv				
+लेटेस्ट	लेटेस्ट	XC		unk				
+जॉब्स	जॉब्स	NNP		unk				
+अपडेट	अपडेट	NN		unk				
+देने	दे	VM	ना	v	m	pl	any	
+वाला	वाला	PSP	0	n	m	sg	3	d
+एक	एक	QC		adj	any	any		any
+रेगुलर	रेगुलर	NN		unk				
+Jobs	Jobs	JJ		unk				
+Portal	Portal	NN		unk				
+है	है	VM	है	v	any	sg	2	
+|	|	SYM		punc				
+यहां	यहाँ	PRP		adv				
+पर	पर	PSP		psp				
+आपको	आप	PRP	को	pn	any	any	any	o
+गवर्नमेंट	गवर्नमेंट	JJ	0	n	f	sg	3	d
+जॉब	जॉब	NN		unk				
+से	से	PSP	0	v	any	any	any	
+सम्बंधित	सम्बंधित	JJ		unk				
+सभी	सभी	QF	0	n	m	sg	3	d
+प्रकार	प्रकार	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अपडेट	अपडेट	NN		unk				
+मील	मील	VM	0	n	m	sg	3	d
+जायेंगे	जा	VAUX	गा	v	m	pl	1	
+|	|	SYM		punc				
+यहां	यहाँ	PRP		adv				
+आपके	आप	PRP	का	pn	m	pl	any	d
+जरूरत	जरूरत	NN		adv				
+के	का	PSP	का	psp	m	sg		o
+अनुसार	अनुसार	PSP:?		psp				
+कई	कई	QF		adj	any	any		d
+सारे	सारा	QF		adj	m	sg		o
+केटेगरी	केटेगरी	NN		unk				
+बनाये	बना	VM	एं	v	any	sg	2	
+गए	गए	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+जहां	जहाँ	PRP		adv				
+से	से	PSP	0	v	any	any	any	
+आपको	आप	PRP	को	pn	any	any	any	o
+Railway	Railway	XC		unk				
+Jobs	Jobs	NNP		unk				
+,	,	SYM		punc				
+Bank	Bank	XC		unk				
+Jobs	Jobs	NNP		unk				
+,	,	SYM		punc				
+Engineering	Engineering	XC		unk				
+Jobs	Jobs	NNP		unk				
+,	,	SYM		punc				
+Teaching	Teaching	XC		unk				
+Jobs	Jobs	NNP		unk				
+,	,	SYM		punc				
+Defense	Defense	NN		unk				
+,	,	SYM		punc				
+SSC	SSC	NN		unk				
+,	,	SYM		punc				
+IBPS	IBPS	NNP		unk				
+इत्यादि	इत्यादि	RP		unk				
+जॉब	जॉब	XC		unk				
+अपडेट	अपडेट	NN		unk				
+बहुत	बहुत	QF		adj	any	any		any
+ही	ही	RP		adv				
+आसानी	आसानी	RB	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+मील	मील	VM	0	n	m	sg	3	d
+जायेंगे	जा	VAUX	गा	v	m	pl	1	
+|	|	SYM		punc				
+इस	इस	DEM		pn	any	sg	3	o
+वेबसाइट	वेबसाइट	NN		unk				
+कि	कि	CC		avy				
+खास	खास	JJ		adj	any	any		any
+बात	बात	NN	0	n	f	sg	3	d
+ये	यह	PRP	0	pn	any	pl	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+इसे	इसे	PRP		pn	any	sg	3	o
+आप	आप	PRP	0	pn	any	any	any	o
+अपने	अपना	PRP	0	n	m	pl	3	d
+क्षेत्रीय	क्षेत्रीय	JJ		adj	any	any		any
+भाषा	भाषा	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+भी	भी	RP		adv				
+बदल	बदल	VM	0	v	any	any	any	
+सकते	सक	VAUX	ता	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+यहां	यहाँ	PRP		adv				
+पर	पर	PSP		psp				
+आपको	आप	PRP	को	pn	any	any	any	o
+गूगल	गूगल	JJ		unk				
+ट्रांसलेटर	ट्रांसलेटर	NN		unk				
+टूल	टूल	NN		unk				
+मील	मील	VM	0	n	m	sg	3	d
+जायेगा	जा	VAUX	गा	v	m	sg	2	
+|	|	SYM		punc				
+दोस्तों	दोस्त	NN	0	n	m	pl	3	o
+एक	एक	QC		adj	any	any		any
+बात	बात	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+जरूर	जरूर	RB		adv				
+ध्यान	ध्यान	NN	0	n	m	sg	3	d
+दे	दे	VM	0	v	any	any	any	
+ये	यह	DEM	0	pn	any	pl	3	d
+सभी	सभी	QF	0	n	m	sg	3	d
+वेबसाइट	वेबसाइट	NN		unk				
+सिर्फ	सिर्फ	RB		adj	any	any		any
+आपको	आप	PRP	को	pn	any	any	any	o
+गवर्नमेंट	गवर्नमेंट	JJ	0	n	f	sg	3	d
+जॉब	जॉब	NN		unk				
+से	से	PSP	0	v	any	any	any	
+सम्बंधित	सम्बंधित	JJ		unk				
+न्यूज	न्यूज	XC		unk				
+अपडेट	अपडेट	NN		unk				
+देते	दे	VM	ता	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+इनका	इनका	PRP		pn	m	sg	3	d
+गवर्मेंट	गवर्मेंट	JJ		unk				
+से	से	PSP	0	v	any	any	any	
+कोई	कोई	PRP	0	pn	any	sg	3	d
+लेना-देना	लेना-देना	NN		unk				
+नही	नही	NEG		unk				
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+इसके	इसके	PRP		pn	m	pl	3	d
+लिए	ले	PSP	या	v	m	pl	any	
+सभी	सभी	QF	0	n	m	sg	3	d
+वेबसाइट	वेबसाइट	NN		unk				
+आपको	आप	PRP	को	pn	any	any	any	o
+हर	हर	QF		adj	any	any		any
+जॉब	जॉब	NN		unk				
+से	से	PSP	0	v	any	any	any	
+सम्बंधित	सम्बंधित	JJ		unk				
+एक	एक	QC		adj	any	any		any
+ऑफिसियल	ऑफिसियल	JJ		unk				
+लिंक	लिंक	NN		unk				
+देते	दे	VM	ता	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+जहां	जहाँ	PRP		adv				
+से	से	PSP	0	v	any	any	any	
+आपको	आप	PRP	को	pn	any	any	any	o
+सटीक	सटीक	JJ	0	n	m	sg	3	d
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+मील	मील	VM	0	n	m	sg	3	d
+सकती	सक	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+हमेशा	हमेशा	RB		adv				
+कोसिस	कोसिस	NN		unk				
+करियेगा	कर	VM	गा	v	m	sg	2h	
+के	का	PSP	का	psp	m	sg		o
+ऑफिसियल	ऑफिसियल	JJ		unk				
+वेबसाइट	वेबसाइट	NN		unk				
+जिस	जो	DEM	0	pn	any	sg	3	o
+संस्था	संस्था	NN	0	n	f	sg	3	d
+द्वारा	द्वारा	PSP		psp				
+जॉब	जॉब	NN		unk				
+निकाला	निकाल	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+उनके	उनके	PRP		unk				
+वेबसाइट	वेबसाइट	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+नोटिफिकेशन	नोटिफिकेशन	NN		unk				
+को	को	PSP		psp				
+जरूर	जरूर	RB		adv				
+पढे	पढ	VM	एं	v	any	sg	2	
+|	|	SYM		punc				
+ऊपर	ऊपर	NST		adv				
+दिए	दे	VM	या	v	m	pl	any	
+सभी	सभी	QF	0	n	m	sg	3	d
+वेबसाइट	वेबसाइट	NN		unk				
+करोडों	करोड	QC	0	n	m	pl	3	o
+लोग	लोग	NN	0	n	m	sg	3	d
+इस्तेमाल	इस्तेमाल	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+है	है	VAUX	है	v	any	sg	2	
+आप	आप	PRP	0	pn	any	any	any	o
+भी	भी	RP		adv				
+इसकी	इसकी	PRP		pn	f	sg	3	d
+हेल्प	हेल्प	NN		unk				
+से	से	PSP	0	v	any	any	any	
+अपने	अपना	PRP	0	n	m	pl	3	d
+लिए	ले	PSP	या	v	m	pl	any	
+एक	एक	QC		adj	any	any		any
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+ढूंढ	ढूंढ	VM		unk				
+सकते	सक	VAUX	ता	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+|	|	SYM		punc				
+इसके	इसके	PRP		pn	m	pl	3	d
+लिए	ले	PSP	या	v	m	pl	any	
+techactive	techactive	NN		unk				
+कि	कि	CC		avy				
+तरफ	तरफ	NST		adv				
+से	से	PSP	0	v	any	any	any	
+आपको	आप	PRP	को	pn	any	any	any	o
+ढेरों	ढेर	NN	0	n	m	pl	3	o
+शुभकामनाएं	शुभकामनाएं	NN		unk				
+है	है	VM	है	v	any	sg	2	
+|	|	SYM		punc				
+हम	हम	PRP		unk				
+आपके	आप	PRP	का	pn	m	pl	any	d
+उज्ज्वल	उज्ज्वल	JJ		adj	any	any		any
+भविष्य	भविष्य	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+मनोकामना	मनोकामना	NN	0	n	f	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+रहेंगे	रह	VAUX	गा	v	m	pl	1	
+|	|	SYM		punc				
+दोस्तों	दोस्त	NN	0	n	m	pl	3	o
+हमें	हमें	PRP		unk				
+उम्मीद	उम्मीद	NN	0	n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+आपको	आप	PRP	को	pn	any	any	any	o
+हमारा	हमारा	PRP		unk				
+आज	आज	NN		adv				
+का	का	PSP	का	psp	m	sg		d
+ये	यह	DEM	0	pn	any	pl	3	d
+लेख	लेख	NN	0	n	m	sg	3	d
+आपको	आप	PRP	को	pn	any	any	any	o
+बहुत	बहुत	QF		adj	any	any		any
+पसंद	पसंद	NN	0	n	f	sg	3	d
+आया	आ	VM	या	v	m	sg	any	
+होगा	हो	VAUX	गा	v	m	sg	2	
+|	|	SYM		punc				
+ये	यह	DEM	0	pn	any	pl	3	d
+पोस्ट	पोस्ट	NN	0	n	m	sg	3	d
+आप	आप	PRP	0	pn	any	any	any	o
+अपने	अपना	PRP	0	n	m	pl	3	d
+दोस्तों	दोस्त	NN	0	n	m	pl	3	o
+,	,	SYM		punc				
+रिश्तेदारों	रिश्तेदार	NN	0	n	m	pl	3	o
+और	और	CC		adv				
+अपने	अपना	PRP	0	n	m	pl	3	d
+बच्चों	बच्चा	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+जरूर	जरूर	RB		adv				
+शेयर	शेयर	NN	0	n	m	sg	3	d
+करे	कर	VM	एं	v	any	sg	2	
+उन्हें	उन्हें	PRP		unk				
+आपसे	आप	PRP	से	pn	any	any	any	o
+मोटिवेशन	मोटिवेशन	NN		unk				
+मिलेगा	मिल	VM	गा	v	m	sg	2	
+|	|	SYM		punc				
+आप	आप	PRP	0	pn	any	any	any	o
+अपने	अपना	PRP	0	n	m	pl	3	d
+अनुभव	अनुभव	NN	0	n	m	sg	3	d
+या	या	CC		avy				
+करियर	करियर	NN		unk				
+सम्बंधित	सम्बंधित	JJ		unk				
+जो	जो	PRP		avy				
+भी	भी	RP		adv				
+सवाल	सवाल	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+निचे	निचे	JJ		unk				
+कमेंट	कमेंट	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+दे	दे	VAUX	0	v	any	any	any	
+हम	हम	PRP		unk				
+उसका	उसका	PRP	0	v	any	any	any	
+जवाब	जवाब	NN	0	n	m	sg	3	d
+जरूर	जरूर	RB		adv				
+देने	दे	VM	ना	v	m	pl	any	
+कि	कि	CC		avy				
+कोसिस	कोसिस	NN		unk				
+करेंगे	कर	VM	गा	v	m	pl	1	
+|	|	SYM		punc				
