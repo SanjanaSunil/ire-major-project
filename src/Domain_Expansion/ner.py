@@ -44,14 +44,14 @@ class DataNER:
             content = f.read()
             f.close()
 
-            f = open('../Wiki_NER/hindi-part-of-speech-tagger/hindi.input.txt', 'w+')
+            f = open('../hindi-part-of-speech-tagger/hindi.input.txt', 'w+')
             f.write(content)
             f.close()
 
             ners_sentence = []
 
-            os.system('make -C ../Wiki_NER/hindi-part-of-speech-tagger tag')
-            f = open('../Wiki_NER/hindi-part-of-speech-tagger/hindi.output', 'r')
+            os.system('make -C ../hindi-part-of-speech-tagger tag')
+            f = open('../hindi-part-of-speech-tagger/hindi.output', 'r')
             
             line = f.readline()
             prev_tagged = False 
