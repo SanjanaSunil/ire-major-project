@@ -34,14 +34,14 @@ class WikiParser:
 
     def extract_ners(self, doc):
         content = self.get_content(doc)
-        f = open('hindi-part-of-speech-tagger/hindi.input.txt', 'w+')
+        f = open('../hindi-part-of-speech-tagger/hindi.input.txt', 'w+')
         f.write(content)
         f.close()
 
         ners_sentence = []
 
-        os.system('make -C hindi-part-of-speech-tagger tag')
-        f = open('hindi-part-of-speech-tagger/hindi.output', 'r')
+        os.system('make -C ../hindi-part-of-speech-tagger tag')
+        f = open('../hindi-part-of-speech-tagger/hindi.output', 'r')
 
         line = f.readline()
         prev_tagged = False 
